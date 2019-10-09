@@ -1,0 +1,12 @@
+# Mac-specific
+.DS_Store
+
+# Ignore all files in the build folder
+build
+
+# Dependency directories
+node_modules/
+
+# Lock
+package-lock.json
+yarn.lock
